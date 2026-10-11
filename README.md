@@ -280,7 +280,6 @@ Training deep recurrent networks with fractional power spectral losses requires 
 .
 ├── model.ipynb                 # Full model (Stage 1 + Stage 2) implementation
 ├── stage1.ipynb                # Stage 1 (ERB Envelope Filtering) isolated pipeline
-├── stage1.py                   # Reusable DynamicMixingDataset & audio utilities
 ├── VoiceBank_Demand_Eval.xlsx  # Benchmark results on VoiceBank+DEMAND test set
 └── README.md                   # System documentation
 ```
